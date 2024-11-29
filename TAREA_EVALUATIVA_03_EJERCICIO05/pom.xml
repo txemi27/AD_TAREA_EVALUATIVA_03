@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>birt.eus.dam</groupId>
+  <artifactId>TAREA_EVALUATIVA_03_EJERCICIO05</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+        <groupId>org.hsqldb</groupId>
+        <artifactId>hsqldb</artifactId>
+        <version>2.6.1</version> 
+        <scope>runtime</scope>
+    </dependency>
+<!-- https://mvnrepository.com/artifact/org.vibur/vibur-dbcp -->
+<dependency>
+    <groupId>org.vibur</groupId>
+    <artifactId>vibur-dbcp</artifactId>
+    <version>25.0</version>
+</dependency>
+</dependencies>
+</project>
